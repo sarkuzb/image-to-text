@@ -26,7 +26,7 @@ Perfect for digitizing documents, extracting text from screenshots, or convertin
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/sarkuzb/image-to-text.git)
 cd image-to-text
 ```
 
